@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.blz.selenium.test.BooksWagon_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-04T07:57:31" hostname="DESKTOP-KFGQFK8" time="70.139">
+  <properties/>
+  <testcase name="addTo_wishlist_test[0](latikakhairnar10@gmail.com, latika@123)" classname="com.blz.selenium.test.BooksWagon_Test" time="70.139"/>
+  <system-out><![CDATA[[INFO ] 2021-08-04 13:27:31.280 [Test worker] LogClass - %[INFO ] 2021-08-04 13:27:31.437 [Test worker] LogClass - %[INFO ] 2021-08-04 13:27:34.266 [Test worker] LogClass - %[INFO ] 2021-08-04 13:27:35.057 [Test worker] LogClass - %[INFO ] 2021-08-04 13:27:35.708 [Test worker] LogClass - %[INFO ] 2021-08-04 13:27:39.083 [Test worker] LogClass - %[INFO ] 2021-08-04 13:27:39.146 [Test worker] LogClass - %[INFO ] 2021-08-04 13:27:43.058 [Test worker] LogClass - %[INFO ] 2021-08-04 13:27:46.102 [Test worker] LogClass - %[INFO ] 2021-08-04 13:27:56.016 [Test worker] LogClass - %[INFO ] 2021-08-04 13:28:01.371 [Test worker] LogClass - %[INFO ] 2021-08-04 13:28:04.581 [Test worker] LogClass - %[INFO ] 2021-08-04 13:28:09.740 [Test worker] LogClass - %[INFO ] 2021-08-04 13:28:15.412 [Test worker] LogClass - %[INFO ] 2021-08-04 13:28:18.303 [Test worker] LogClass - %[INFO ] 2021-08-04 13:28:26.022 [Test worker] LogClass - %[INFO ] 2021-08-04 13:28:32.989 [Test worker] LogClass - %[INFO ] 2021-08-04 13:28:36.105 [Test worker] LogClass - %Online BookStore India, Buy Books Online, Buy Book Online India - Bookswagon.com
+Success Test
+[INFO ] 2021-08-04 13:28:41.938 [Test worker] LogClass - %]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

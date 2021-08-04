@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/sachin/IdeaProjects/BooksWagon_Project/src/test">
+        <classes>
+            <class name="com.blz.selenium.test.LoginTest">
+                <methods>
+                    <include name="login_test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="addTo_wishlist">
+        <classes >
+            <class name="com.blz.selenium.test.Add_To_Wishlist_Test">
+                <methods>
+                    <include name="addTo_wishlist_test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Search_Book_Test">
+        <classes >
+            <class name="com.blz.selenium.test.Search_Book_Test">
+                <methods>
+                    <include name="searchBook_test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="BuyBook_Test">
+        <classes >
+            <class name="com.blz.selenium.test.BuyBook_Test">
+                <methods>
+                    <include name="buyBook_test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Remove_Book_Test">
+        <classes >
+            <class name="com.blz.selenium.test.Remove_Book_Test">
+                <methods>
+                    <include name="remove_book_test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="BooksWagon_Test">
+        <classes >
+            <class name="com.blz.selenium.test.BooksWagon_Test">
+                <methods>
+                    <include name="logout_Application"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Invalid_Login_Test">
+        <classes >
+            <class name="com.blz.selenium.test.Invalid_Login_Test">
+                <methods>
+                    <include name="login_negative_test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
