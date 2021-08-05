@@ -112,6 +112,7 @@ public class DashBoardPage extends BaseClass {
         return driver.getTitle();
     }
 
+
     public String remove_from_cart() throws InterruptedException {
         LogClass.info("Remove from the cart");
         searchBar.click();

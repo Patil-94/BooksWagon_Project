@@ -10,3 +10,5 @@ com/blz/selenium/test/RemoveBook_From_Cart.java
  com.blz.selenium.test.RemoveBook_From_Cart
 com/blz/selenium/test/DashBoard_Test.java
  com.blz.selenium.test.DashBoard_Test
+com/blz/selenium/test/BuyBook_Test.java
+ com.blz.selenium.test.BuyBook_Test

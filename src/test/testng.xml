@@ -6,6 +6,23 @@
             <class name="com.blz.selenium.test.LoginTest">
                 <methods>
                     <include name="login_test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="DashBoard_Test">
+        <classes >
+            <class name="com.blz.selenium.test.DashBoard_Test">
+                <methods>
+                    <include name="searchBook_test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="BuyBook_Test">
+        <classes >
+            <class name="com.blz.selenium.test.BuyBook_Test">
+                <methods>
                     <include name="buyBook_test"/>
                 </methods>
             </class>
@@ -20,16 +37,7 @@
             </class>
         </classes>
     </test>
-    <test name="DashBoard_Test">
-                <classes >
-                    <class name="com.blz.selenium.test.DashBoard_Test">
-                        <methods>
-                            <include name="searchBook_test"/>
-                        </methods>
-                    </class>
-                </classes>
-            </test>
-           <test name="Logout_Test">
+       <test name="Logout_Test">
                <classes >
                    <class name="com.blz.selenium.test.Logout_Test">
                        <methods>
