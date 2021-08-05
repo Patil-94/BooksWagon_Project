@@ -15,7 +15,7 @@ public class Home_Page extends BaseClass {
     @FindBy(xpath = "//div[@class='books-category']//a[normalize-space()='Computer & Internet']")
     WebElement computer_nd_internet;
 
-    @FindBy(xpath = "//a[normalize-space()='Applied Data Science Using Pyspark']")
+    @FindBy(xpath = "//img[@alt='Applied Data Science Using Pyspark']")
     WebElement book;
 
     @FindBy(xpath = "//input[@value='Add to Wishlist']")

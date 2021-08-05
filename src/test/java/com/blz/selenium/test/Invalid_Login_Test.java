@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 @Listeners(CustomListener.class)
 public class Invalid_Login_Test extends BaseClass {
 
-    @Test(priority =6)
+    @Test(priority = 6)
     public void login_negative_test() throws InterruptedException {
         LogClass.info("Login with Invalid credentials");
         Login_Page login_page = new Login_Page(driver);

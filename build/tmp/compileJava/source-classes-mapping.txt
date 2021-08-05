@@ -7,8 +7,8 @@ com/blz/selenium/utility/ScreenshotClass.java
  com.blz.selenium.utility.ScreenshotClass
 com/blz/selenium/pages/Login_Page.java
  com.blz.selenium.pages.Login_Page
-com/blz/selenium/utility/Remove_From_Cart.java
- com.blz.selenium.utility.Remove_From_Cart
+com/blz/selenium/utility/ReadObjectRepo.java
+ com.blz.selenium.utility.ReadObjectRepo
 com/blz/selenium/listener/CustomListener.java
  com.blz.selenium.listener.CustomListener
 com/blz/selenium/utility/LogClass.java
@@ -21,7 +21,5 @@ com/blz/selenium/base/BaseClass.java
  com.blz.selenium.base.BaseClass
 com/blz/selenium/pages/Home_Page.java
  com.blz.selenium.pages.Home_Page
-com/blz/selenium/utility/ReadObjectRepo.java
- com.blz.selenium.utility.ReadObjectRepo
 com/blz/selenium/pages/DashBoardPage.java
  com.blz.selenium.pages.DashBoardPage

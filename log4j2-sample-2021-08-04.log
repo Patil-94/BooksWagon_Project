@@ -1,0 +1,530 @@
+[INFO ] 2021-08-04 12:18:33.875 [Test worker] LogClass - Test is starting
+[INFO ] 2021-08-04 12:18:36.343 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-08-04 12:18:57.831 [Test worker] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 12:19:13.361 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-08-04 12:19:59.127 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-08-04 12:20:00.760 [Test worker] LogClass - Test is ended
+[INFO ] 2021-08-04 12:32:38.748 [Test worker] LogClass - Test is starting
+[INFO ] 2021-08-04 12:32:40.373 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-08-04 12:32:51.906 [Test worker] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 12:33:07.011 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-08-04 12:33:12.521 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 12:33:20.772 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-04 12:33:23.011 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-04 12:33:25.175 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-04 12:33:32.371 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 12:33:44.806 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-08-04 12:33:45.161 [Test worker] LogClass - Test is ended
+[INFO ] 2021-08-04 12:46:58.525 [Test worker] LogClass - Test is starting
+[INFO ] 2021-08-04 12:47:05.796 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-08-04 12:47:24.274 [Test worker] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 12:47:46.214 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-08-04 12:47:51.741 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 12:47:58.987 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-04 12:48:04.562 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-04 12:48:07.031 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-04 12:48:17.719 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 12:48:43.110 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-08-04 12:48:48.258 [Test worker] LogClass - Test is ended
+[INFO ] 2021-08-04 12:55:51.044 [Test worker] LogClass - Test is starting
+[INFO ] 2021-08-04 12:55:52.746 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-08-04 12:56:11.112 [Test worker] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 12:56:30.280 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-08-04 12:56:35.863 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 12:56:37.865 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-04 12:56:54.930 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-08-04 12:56:56.824 [Test worker] LogClass - Test is ended
+[INFO ] 2021-08-04 12:58:34.027 [Test worker] LogClass - Test is starting
+[INFO ] 2021-08-04 12:58:35.282 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-08-04 12:59:06.907 [Test worker] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 12:59:23.190 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-08-04 12:59:28.763 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 12:59:37.021 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-04 12:59:39.756 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-04 12:59:41.937 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-04 12:59:50.050 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 13:00:01.065 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-08-04 13:00:01.920 [Test worker] LogClass - Test is ended
+[INFO ] 2021-08-04 13:04:46.322 [Test worker] LogClass - Test is starting
+[INFO ] 2021-08-04 13:04:48.483 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-08-04 13:05:37.250 [Test worker] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 13:05:59.767 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-08-04 13:06:06.643 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 13:06:16.270 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-04 13:06:22.230 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-04 13:06:24.542 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-04 13:06:33.978 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 13:06:50.612 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-08-04 13:06:52.637 [Test worker] LogClass - Test is ended
+[INFO ] 2021-08-04 13:09:18.342 [Test worker] LogClass - Test is starting
+[INFO ] 2021-08-04 13:09:19.689 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-08-04 13:09:44.049 [Test worker] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 13:09:52.293 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-08-04 13:09:57.856 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 13:10:02.505 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-04 13:10:04.869 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-04 13:10:07.046 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-04 13:10:14.002 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 13:10:47.656 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-08-04 13:10:49.254 [Test worker] LogClass - Test is ended
+[INFO ] 2021-08-04 13:17:39.148 [Test worker] LogClass - Test is starting
+[INFO ] 2021-08-04 13:17:39.851 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-08-04 13:17:57.229 [Test worker] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 13:18:07.810 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-08-04 13:18:13.577 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 13:18:20.453 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-04 13:18:22.729 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-04 13:18:24.948 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-04 13:18:34.050 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 13:18:53.211 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-08-04 13:18:53.845 [Test worker] LogClass - Test is ended
+[INFO ] 2021-08-04 13:20:49.247 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 13:20:49.825 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 13:21:01.749 [main] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 13:21:11.949 [main] LogClass - Launched the web application.
+[INFO ] 2021-08-04 13:21:23.569 [main] LogClass - Login with valid credentials
+[INFO ] 2021-08-04 13:21:23.772 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:21:26.207 [main] LogClass - Enter email id
+[INFO ] 2021-08-04 13:21:26.851 [main] LogClass - Enter password
+[INFO ] 2021-08-04 13:21:27.537 [main] LogClass - click on login button
+[INFO ] 2021-08-04 13:21:29.328 [main] LogClass - you're login successfully
+[INFO ] 2021-08-04 13:21:29.350 [main] LogClass - Checking actual and expected title
+[INFO ] 2021-08-04 13:21:30.040 [main] LogClass - login_test:take success screenshot
+[INFO ] 2021-08-04 13:21:30.641 [main] LogClass - Login with Invalid credentials
+[INFO ] 2021-08-04 13:21:30.641 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:21:30.919 [main] LogClass - login_negative_test:take failed screenshot 
+[INFO ] 2021-08-04 13:21:31.214 [main] LogClass - add to wishlist
+[INFO ] 2021-08-04 13:21:31.214 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:21:31.406 [main] LogClass - addTo_wishlist_test:take failed screenshot 
+[INFO ] 2021-08-04 13:21:46.126 [main] LogClass - print all properties
+[INFO ] 2021-08-04 13:22:01.558 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:22:01.770 [main] LogClass - searchBook_test:take failed screenshot 
+[INFO ] 2021-08-04 13:22:02.059 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:22:02.279 [main] LogClass - buyBook_test:take failed screenshot 
+[INFO ] 2021-08-04 13:22:02.589 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:22:02.845 [main] LogClass - remove_book_test:take failed screenshot 
+[INFO ] 2021-08-04 13:22:03.094 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:22:03.392 [main] LogClass - logout_Application:take failed screenshot 
+[INFO ] 2021-08-04 13:22:16.822 [main] LogClass - Browser is closed
+[INFO ] 2021-08-04 13:22:17.241 [main] LogClass - Test is ended
+[INFO ] 2021-08-04 13:24:05.982 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 13:24:06.622 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 13:24:26.454 [main] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 13:24:39.312 [main] LogClass - Launched the web application.
+[INFO ] 2021-08-04 13:24:48.394 [main] LogClass - Login with valid credentials
+[INFO ] 2021-08-04 13:24:48.519 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:24:52.796 [main] LogClass - Enter email id
+[INFO ] 2021-08-04 13:24:54.374 [main] LogClass - Enter password
+[INFO ] 2021-08-04 13:24:55.554 [main] LogClass - click on login button
+[INFO ] 2021-08-04 13:24:59.343 [main] LogClass - you're login successfully
+[INFO ] 2021-08-04 13:24:59.372 [main] LogClass - Checking actual and expected title
+[INFO ] 2021-08-04 13:25:00.514 [main] LogClass - login_test:take success screenshot
+[INFO ] 2021-08-04 13:25:01.343 [main] LogClass - add to wishlist
+[INFO ] 2021-08-04 13:25:01.343 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:25:01.526 [main] LogClass - addTo_wishlist_test:take failed screenshot 
+[INFO ] 2021-08-04 13:25:17.100 [main] LogClass - print all properties
+[INFO ] 2021-08-04 13:25:33.168 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:25:33.384 [main] LogClass - searchBook_test:take failed screenshot 
+[INFO ] 2021-08-04 13:25:33.754 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:25:33.952 [main] LogClass - buyBook_test:take failed screenshot 
+[INFO ] 2021-08-04 13:25:34.197 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:25:34.450 [main] LogClass - remove_book_test:take failed screenshot 
+[INFO ] 2021-08-04 13:25:34.652 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:25:34.882 [main] LogClass - logout_Application:take failed screenshot 
+[INFO ] 2021-08-04 13:25:56.153 [main] LogClass - Browser is closed
+[INFO ] 2021-08-04 13:25:58.303 [main] LogClass - Test is ended
+[INFO ] 2021-08-04 13:26:52.655 [Test worker] LogClass - Test is starting
+[INFO ] 2021-08-04 13:26:53.201 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-08-04 13:27:06.422 [Test worker] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 13:27:18.665 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-08-04 13:27:31.280 [Test worker] LogClass - add to wishlist
+[INFO ] 2021-08-04 13:27:31.437 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 13:27:34.266 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-04 13:27:35.057 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-04 13:27:35.708 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-04 13:27:39.083 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-04 13:27:39.146 [Test worker] LogClass - click on home icon
+[INFO ] 2021-08-04 13:27:43.058 [Test worker] LogClass - click on category
+[INFO ] 2021-08-04 13:27:46.102 [Test worker] LogClass - click on books
+[INFO ] 2021-08-04 13:27:56.016 [Test worker] LogClass - click on add to wishlist
+[INFO ] 2021-08-04 13:28:01.371 [Test worker] LogClass - click on card
+[INFO ] 2021-08-04 13:28:04.581 [Test worker] LogClass - click on checkbox button
+[INFO ] 2021-08-04 13:28:09.740 [Test worker] LogClass - click on home icon
+[INFO ] 2021-08-04 13:28:15.412 [Test worker] LogClass - click on category
+[INFO ] 2021-08-04 13:28:18.303 [Test worker] LogClass - click on books
+[INFO ] 2021-08-04 13:28:26.022 [Test worker] LogClass - click on add to wishlist
+[INFO ] 2021-08-04 13:28:32.989 [Test worker] LogClass - click on card
+[INFO ] 2021-08-04 13:28:36.105 [Test worker] LogClass - click on checkbox button
+[INFO ] 2021-08-04 13:28:41.938 [Test worker] LogClass - addTo_wishlist_test:take success screenshot
+[INFO ] 2021-08-04 13:28:55.288 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-08-04 13:28:56.236 [Test worker] LogClass - Test is ended
+[INFO ] 2021-08-04 13:30:43.440 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 13:30:44.081 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 13:30:59.523 [main] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 13:31:13.450 [main] LogClass - Launched the web application.
+[INFO ] 2021-08-04 13:31:22.187 [main] LogClass - Login with valid credentials
+[INFO ] 2021-08-04 13:31:22.250 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:31:27.751 [main] LogClass - Enter email id
+[INFO ] 2021-08-04 13:31:28.405 [main] LogClass - Enter password
+[INFO ] 2021-08-04 13:31:29.058 [main] LogClass - click on login button
+[INFO ] 2021-08-04 13:31:32.102 [main] LogClass - you're login successfully
+[INFO ] 2021-08-04 13:31:32.176 [main] LogClass - Checking actual and expected title
+[INFO ] 2021-08-04 13:31:33.331 [main] LogClass - login_test:take success screenshot
+[INFO ] 2021-08-04 13:31:48.423 [main] LogClass - print all properties
+[INFO ] 2021-08-04 13:32:02.698 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:32:03.024 [main] LogClass - searchBook_test:take failed screenshot 
+[INFO ] 2021-08-04 13:32:03.290 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:32:03.495 [main] LogClass - buyBook_test:take failed screenshot 
+[INFO ] 2021-08-04 13:32:03.706 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:32:03.898 [main] LogClass - remove_book_test:take failed screenshot 
+[INFO ] 2021-08-04 13:32:04.105 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:32:04.345 [main] LogClass - logout_Application:take failed screenshot 
+[INFO ] 2021-08-04 13:32:17.035 [main] LogClass - Browser is closed
+[INFO ] 2021-08-04 13:32:17.361 [main] LogClass - Test is ended
+[INFO ] 2021-08-04 13:48:49.957 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 13:49:01.347 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 13:49:52.489 [main] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 13:50:10.620 [main] LogClass - Launched the web application.
+[INFO ] 2021-08-04 13:50:20.414 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:50:24.927 [main] LogClass - Enter email id
+[INFO ] 2021-08-04 13:50:26.390 [main] LogClass - Enter password
+[INFO ] 2021-08-04 13:50:27.302 [main] LogClass - click on login button
+[INFO ] 2021-08-04 13:50:33.556 [main] LogClass - you're login successfully
+[INFO ] 2021-08-04 13:50:35.579 [main] LogClass - Mouse hovering on my account menu
+[INFO ] 2021-08-04 13:50:35.860 [main] LogClass - Clicking on sub menu logout
+[INFO ] 2021-08-04 13:50:37.505 [main] LogClass - you're logout successfully
+[INFO ] 2021-08-04 13:50:38.147 [main] LogClass - logout_Application:take success screenshot
+[INFO ] 2021-08-04 13:50:48.515 [main] LogClass - Browser is closed
+[INFO ] 2021-08-04 13:50:55.345 [main] LogClass - Test is ended
+[INFO ] 2021-08-04 13:52:43.634 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 13:52:45.025 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 13:53:01.538 [main] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 13:53:17.440 [main] LogClass - Launched the web application.
+[INFO ] 2021-08-04 13:53:30.404 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:53:33.122 [main] LogClass - Enter email id
+[INFO ] 2021-08-04 13:53:33.851 [main] LogClass - Enter password
+[INFO ] 2021-08-04 13:53:34.473 [main] LogClass - click on login button
+[INFO ] 2021-08-04 13:53:37.252 [main] LogClass - you're login successfully
+[INFO ] 2021-08-04 13:53:39.275 [main] LogClass - Mouse hovering on my account menu
+[INFO ] 2021-08-04 13:53:39.508 [main] LogClass - Clicking on sub menu logout
+[INFO ] 2021-08-04 13:53:40.872 [main] LogClass - you're logout successfully
+[INFO ] 2021-08-04 13:53:42.203 [main] LogClass - logout_Application:take success screenshot
+[INFO ] 2021-08-04 13:54:01.392 [main] LogClass - Browser is closed
+[INFO ] 2021-08-04 13:54:02.562 [main] LogClass - Test is ended
+[INFO ] 2021-08-04 13:54:39.872 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 13:54:40.466 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 13:54:49.228 [main] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 13:55:03.789 [main] LogClass - Launched the web application.
+[INFO ] 2021-08-04 13:55:15.797 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 13:55:21.641 [main] LogClass - Enter email id
+[INFO ] 2021-08-04 13:55:24.113 [main] LogClass - Enter password
+[INFO ] 2021-08-04 13:55:24.871 [main] LogClass - click on login button
+[INFO ] 2021-08-04 13:55:29.037 [main] LogClass - you're login successfully
+[INFO ] 2021-08-04 13:55:31.060 [main] LogClass - Mouse hovering on my account menu
+[INFO ] 2021-08-04 13:55:31.227 [main] LogClass - Clicking on sub menu logout
+[INFO ] 2021-08-04 13:55:32.832 [main] LogClass - you're logout successfully
+[INFO ] 2021-08-04 13:55:33.814 [main] LogClass - logout_Application:take success screenshot
+[INFO ] 2021-08-04 13:55:51.469 [main] LogClass - Browser is closed
+[INFO ] 2021-08-04 14:26:55.128 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 14:26:57.117 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 14:27:32.485 [main] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 14:27:50.855 [main] LogClass - Launched the web application.
+[INFO ] 2021-08-04 14:28:03.024 [main] LogClass - add to wishlist
+[INFO ] 2021-08-04 14:28:03.303 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:28:07.344 [main] LogClass - Enter email id
+[INFO ] 2021-08-04 14:28:11.565 [main] LogClass - Enter password
+[INFO ] 2021-08-04 14:28:12.351 [main] LogClass - click on login button
+[INFO ] 2021-08-04 14:28:17.498 [main] LogClass - you're login successfully
+[INFO ] 2021-08-04 14:28:17.741 [main] LogClass - click on home icon
+[INFO ] 2021-08-04 14:28:21.103 [main] LogClass - click on category
+[INFO ] 2021-08-04 14:28:25.676 [main] LogClass - click on books
+[INFO ] 2021-08-04 14:28:38.032 [main] LogClass - click on add to wishlist
+[INFO ] 2021-08-04 14:28:44.504 [main] LogClass - click on card
+[INFO ] 2021-08-04 14:28:47.616 [main] LogClass - click on checkbox button
+[INFO ] 2021-08-04 14:28:52.705 [main] LogClass - click on home icon
+[INFO ] 2021-08-04 14:28:55.932 [main] LogClass - click on category
+[INFO ] 2021-08-04 14:28:58.739 [main] LogClass - click on books
+[INFO ] 2021-08-04 14:29:07.321 [main] LogClass - click on add to wishlist
+[INFO ] 2021-08-04 14:29:14.531 [main] LogClass - click on card
+[INFO ] 2021-08-04 14:29:17.674 [main] LogClass - click on checkbox button
+[INFO ] 2021-08-04 14:29:23.921 [main] LogClass - addTo_wishlist_test:take success screenshot
+[INFO ] 2021-08-04 14:29:26.914 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:29:27.267 [main] LogClass - logout_Application:take failed screenshot 
+[INFO ] 2021-08-04 14:29:28.116 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:29:28.786 [main] LogClass - buyBook_test:take failed screenshot 
+[INFO ] 2021-08-04 14:29:29.049 [main] LogClass - Login with Invalid credentials
+[INFO ] 2021-08-04 14:29:29.049 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:29:29.271 [main] LogClass - login_negative_test:take failed screenshot 
+[INFO ] 2021-08-04 14:29:29.634 [main] LogClass - Login with valid credentials
+[INFO ] 2021-08-04 14:29:29.634 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:29:29.872 [main] LogClass - login_test:take failed screenshot 
+[INFO ] 2021-08-04 14:29:30.135 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:29:30.541 [main] LogClass - login_Application:take failed screenshot 
+[INFO ] 2021-08-04 14:29:30.910 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:29:31.146 [main] LogClass - remove_book_test:take failed screenshot 
+[INFO ] 2021-08-04 14:29:45.697 [main] LogClass - print all properties
+[INFO ] 2021-08-04 14:30:00.008 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:30:01.078 [main] LogClass - searchBook_test:take failed screenshot 
+[INFO ] 2021-08-04 14:30:13.608 [main] LogClass - Browser is closed
+[INFO ] 2021-08-04 14:30:14.347 [main] LogClass - Test is ended
+[INFO ] 2021-08-04 14:52:19.266 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 14:52:31.952 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 14:53:32.612 [main] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 14:53:57.303 [main] LogClass - Launched the web application.
+[INFO ] 2021-08-04 14:54:13.238 [main] LogClass - add to wishlist
+[INFO ] 2021-08-04 14:54:13.429 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:54:23.002 [main] LogClass - Enter email id
+[INFO ] 2021-08-04 14:54:30.927 [main] LogClass - Enter password
+[INFO ] 2021-08-04 14:54:32.049 [main] LogClass - click on login button
+[INFO ] 2021-08-04 14:54:40.986 [main] LogClass - you're login successfully
+[INFO ] 2021-08-04 14:54:41.204 [main] LogClass - click on home icon
+[INFO ] 2021-08-04 14:54:48.341 [main] LogClass - click on category
+[INFO ] 2021-08-04 14:54:55.656 [main] LogClass - click on books
+[INFO ] 2021-08-04 14:55:13.910 [main] LogClass - click on add to wishlist
+[INFO ] 2021-08-04 14:55:20.699 [main] LogClass - click on card
+[INFO ] 2021-08-04 14:55:23.815 [main] LogClass - click on checkbox button
+[INFO ] 2021-08-04 14:55:28.995 [main] LogClass - click on home icon
+[INFO ] 2021-08-04 14:55:33.322 [main] LogClass - click on category
+[INFO ] 2021-08-04 14:55:37.122 [main] LogClass - click on books
+[INFO ] 2021-08-04 14:55:44.278 [main] LogClass - click on add to wishlist
+[INFO ] 2021-08-04 14:55:50.207 [main] LogClass - click on card
+[INFO ] 2021-08-04 14:55:53.319 [main] LogClass - click on checkbox button
+[INFO ] 2021-08-04 14:55:59.909 [main] LogClass - addTo_wishlist_test:take success screenshot
+[INFO ] 2021-08-04 14:56:01.469 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:56:01.725 [main] LogClass - logout_Application:take failed screenshot 
+[INFO ] 2021-08-04 14:56:03.177 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:56:03.446 [main] LogClass - buyBook_test:take failed screenshot 
+[INFO ] 2021-08-04 14:56:04.305 [main] LogClass - Login with Invalid credentials
+[INFO ] 2021-08-04 14:56:04.306 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:56:04.586 [main] LogClass - login_negative_test:take failed screenshot 
+[INFO ] 2021-08-04 14:56:05.189 [main] LogClass - Login with valid credentials
+[INFO ] 2021-08-04 14:56:05.190 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:56:05.602 [main] LogClass - login_test:take failed screenshot 
+[INFO ] 2021-08-04 14:56:05.931 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:56:06.165 [main] LogClass - remove_book_test:take failed screenshot 
+[INFO ] 2021-08-04 14:56:24.408 [main] LogClass - print all properties
+[INFO ] 2021-08-04 14:56:39.359 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 14:56:39.610 [main] LogClass - searchBook_test:take failed screenshot 
+[INFO ] 2021-08-04 14:56:48.812 [main] LogClass - Browser is closed
+[INFO ] 2021-08-04 14:56:49.274 [main] LogClass - Test is ended
+[INFO ] 2021-08-04 15:04:23.177 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 15:04:25.480 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 15:04:50.270 [main] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 15:04:58.336 [main] LogClass - Launched the web application.
+[INFO ] 2021-08-04 15:05:09.559 [main] LogClass - Login with valid credentials
+[INFO ] 2021-08-04 15:05:09.715 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 15:05:13.213 [main] LogClass - Enter email id
+[INFO ] 2021-08-04 15:05:13.948 [main] LogClass - Enter password
+[INFO ] 2021-08-04 15:05:14.625 [main] LogClass - click on login button
+[INFO ] 2021-08-04 15:05:16.087 [main] LogClass - you're login successfully
+[INFO ] 2021-08-04 15:05:16.145 [main] LogClass - Checking actual and expected title
+[INFO ] 2021-08-04 15:05:16.525 [main] LogClass - login_test:take success screenshot
+[INFO ] 2021-08-04 15:05:17.291 [main] LogClass - add to wishlist
+[INFO ] 2021-08-04 15:05:17.292 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 15:05:17.577 [main] LogClass - addTo_wishlist_test:take failed screenshot 
+[INFO ] 2021-08-04 15:05:31.683 [main] LogClass - print all properties
+[INFO ] 2021-08-04 15:05:48.379 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 15:05:48.609 [main] LogClass - searchBook_test:take failed screenshot 
+[INFO ] 2021-08-04 15:05:48.917 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 15:05:49.182 [main] LogClass - buyBook_test:take failed screenshot 
+[INFO ] 2021-08-04 15:05:49.521 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 15:05:49.830 [main] LogClass - remove_book_test:take failed screenshot 
+[INFO ] 2021-08-04 15:05:50.154 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 15:05:50.862 [main] LogClass - logout_Application:take failed screenshot 
+[INFO ] 2021-08-04 15:05:51.087 [main] LogClass - Login with Invalid credentials
+[INFO ] 2021-08-04 15:05:51.088 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 15:05:51.336 [main] LogClass - login_negative_test:take failed screenshot 
+[INFO ] 2021-08-04 15:06:05.025 [main] LogClass - Browser is closed
+[INFO ] 2021-08-04 15:06:05.400 [main] LogClass - Test is ended
+[INFO ] 2021-08-04 15:16:31.816 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 15:16:35.482 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 15:16:45.893 [main] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 15:17:00.077 [main] LogClass - Launched the web application.
+[INFO ] 2021-08-04 15:17:09.824 [main] LogClass - Login with valid credentials
+[INFO ] 2021-08-04 15:17:09.905 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 15:17:14.492 [main] LogClass - Enter email id
+[INFO ] 2021-08-04 15:17:16.559 [main] LogClass - Enter password
+[INFO ] 2021-08-04 15:17:17.605 [main] LogClass - click on login button
+[INFO ] 2021-08-04 15:17:19.853 [main] LogClass - you're login successfully
+[INFO ] 2021-08-04 15:17:19.888 [main] LogClass - Checking actual and expected title
+[INFO ] 2021-08-04 15:17:20.292 [main] LogClass - login_test:take success screenshot
+[INFO ] 2021-08-04 15:17:21.264 [main] LogClass - add to wishlist
+[INFO ] 2021-08-04 15:17:21.332 [main] LogClass - click on home icon
+[INFO ] 2021-08-04 15:17:24.257 [main] LogClass - click on category
+[INFO ] 2021-08-04 15:17:26.808 [main] LogClass - click on books
+[INFO ] 2021-08-04 15:17:33.800 [main] LogClass - click on add to wishlist
+[INFO ] 2021-08-04 15:17:39.483 [main] LogClass - click on card
+[INFO ] 2021-08-04 15:17:42.628 [main] LogClass - click on checkbox button
+[INFO ] 2021-08-04 15:17:47.786 [main] LogClass - click on home icon
+[INFO ] 2021-08-04 15:17:51.040 [main] LogClass - click on category
+[INFO ] 2021-08-04 15:17:53.484 [main] LogClass - click on books
+[INFO ] 2021-08-04 15:18:00.119 [main] LogClass - click on add to wishlist
+[INFO ] 2021-08-04 15:18:05.773 [main] LogClass - click on card
+[INFO ] 2021-08-04 15:18:08.876 [main] LogClass - click on checkbox button
+[INFO ] 2021-08-04 15:18:14.148 [main] LogClass - addTo_wishlist_test:take success screenshot
+[INFO ] 2021-08-04 15:18:27.531 [main] LogClass - print all properties
+[INFO ] 2021-08-04 15:18:42.276 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 15:18:42.525 [main] LogClass - searchBook_test:take failed screenshot 
+[INFO ] 2021-08-04 15:19:13.838 [main] LogClass - print Title
+[INFO ] 2021-08-04 15:19:14.057 [main] LogClass - buyBook_test:take success screenshot
+[INFO ] 2021-08-04 15:19:14.327 [main] LogClass - Remove from the cart
+[INFO ] 2021-08-04 15:19:14.555 [main] LogClass - remove_book_test:take failed screenshot 
+[INFO ] 2021-08-04 15:19:16.793 [main] LogClass - Mouse hovering on my account menu
+[INFO ] 2021-08-04 15:19:17.010 [main] LogClass - logout_Application:take failed screenshot 
+[INFO ] 2021-08-04 15:19:17.171 [main] LogClass - Login with Invalid credentials
+[INFO ] 2021-08-04 15:19:17.172 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 15:19:17.369 [main] LogClass - login_negative_test:take failed screenshot 
+[INFO ] 2021-08-04 15:19:24.351 [main] LogClass - Browser is closed
+[INFO ] 2021-08-04 15:19:24.669 [main] LogClass - Test is ended
+[INFO ] 2021-08-04 15:20:38.964 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 15:20:40.351 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 15:20:47.281 [main] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 15:20:55.045 [main] LogClass - Launched the web application.
+[INFO ] 2021-08-04 15:21:04.067 [main] LogClass - Login with valid credentials
+[INFO ] 2021-08-04 15:21:04.132 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 15:21:08.234 [main] LogClass - Enter email id
+[INFO ] 2021-08-04 15:21:11.440 [main] LogClass - Enter password
+[INFO ] 2021-08-04 15:21:12.155 [main] LogClass - click on login button
+[INFO ] 2021-08-04 15:21:14.656 [main] LogClass - you're login successfully
+[INFO ] 2021-08-04 15:21:14.704 [main] LogClass - Checking actual and expected title
+[INFO ] 2021-08-04 15:21:15.774 [main] LogClass - login_test:take success screenshot
+[INFO ] 2021-08-04 15:21:16.421 [main] LogClass - add to wishlist
+[INFO ] 2021-08-04 15:21:16.436 [main] LogClass - click on home icon
+[INFO ] 2021-08-04 15:21:20.313 [main] LogClass - click on category
+[INFO ] 2021-08-04 15:21:24.095 [main] LogClass - click on books
+[INFO ] 2021-08-04 15:21:32.646 [main] LogClass - click on add to wishlist
+[INFO ] 2021-08-04 15:21:38.444 [main] LogClass - click on card
+[INFO ] 2021-08-04 15:21:41.592 [main] LogClass - click on checkbox button
+[INFO ] 2021-08-04 15:21:46.702 [main] LogClass - click on home icon
+[INFO ] 2021-08-04 15:21:51.160 [main] LogClass - click on category
+[INFO ] 2021-08-04 15:21:53.926 [main] LogClass - click on books
+[INFO ] 2021-08-04 15:21:57.647 [main] LogClass - click on add to wishlist
+[INFO ] 2021-08-04 15:22:03.011 [main] LogClass - click on card
+[INFO ] 2021-08-04 15:22:06.128 [main] LogClass - click on checkbox button
+[INFO ] 2021-08-04 15:22:11.507 [main] LogClass - addTo_wishlist_test:take success screenshot
+[INFO ] 2021-08-04 15:22:25.367 [main] LogClass - print all properties
+[INFO ] 2021-08-04 15:22:40.208 [main] LogClass - Checking title actual and expected
+[INFO ] 2021-08-04 15:22:40.395 [main] LogClass - searchBook_test:take success screenshot
+[INFO ] 2021-08-04 15:23:12.533 [main] LogClass - print Title
+[INFO ] 2021-08-04 15:23:12.739 [main] LogClass - buyBook_test:take success screenshot
+[INFO ] 2021-08-04 15:23:13.177 [main] LogClass - Remove from the cart
+[INFO ] 2021-08-04 15:23:13.613 [main] LogClass - remove_book_test:take failed screenshot 
+[INFO ] 2021-08-04 15:23:16.040 [main] LogClass - Mouse hovering on my account menu
+[INFO ] 2021-08-04 15:23:16.282 [main] LogClass - logout_Application:take failed screenshot 
+[INFO ] 2021-08-04 15:23:16.459 [main] LogClass - Login with Invalid credentials
+[INFO ] 2021-08-04 15:23:16.461 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 15:23:16.665 [main] LogClass - login_negative_test:take failed screenshot 
+[INFO ] 2021-08-04 15:23:31.396 [main] LogClass - Browser is closed
+[INFO ] 2021-08-04 15:23:32.506 [main] LogClass - Test is ended
+[INFO ] 2021-08-04 17:21:34.132 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 17:21:35.364 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 17:21:49.189 [main] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 17:21:58.837 [main] LogClass - Launched the web application.
+[INFO ] 2021-08-04 17:22:10.151 [main] LogClass - Login with valid credentials
+[INFO ] 2021-08-04 17:22:10.633 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 17:22:13.709 [main] LogClass - Enter email id
+[INFO ] 2021-08-04 17:22:15.711 [main] LogClass - Enter password
+[INFO ] 2021-08-04 17:22:16.546 [main] LogClass - click on login button
+[INFO ] 2021-08-04 17:22:19.919 [main] LogClass - you're login successfully
+[INFO ] 2021-08-04 17:22:19.950 [main] LogClass - Checking actual and expected title
+[INFO ] 2021-08-04 17:22:20.937 [main] LogClass - login_test:take success screenshot
+[INFO ] 2021-08-04 17:22:34.309 [main] LogClass - Browser is closed
+[INFO ] 2021-08-04 17:22:37.112 [main] LogClass - Test is ended
+[INFO ] 2021-08-04 17:22:37.702 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 17:22:37.749 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 17:22:47.316 [main] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 17:23:02.083 [main] LogClass - Launched the web application.
+[INFO ] 2021-08-04 17:23:07.167 [main] LogClass - add to wishlist
+[INFO ] 2021-08-04 17:23:07.168 [main] LogClass - clicking on login
+[INFO ] 2021-08-04 17:23:10.080 [main] LogClass - Enter email id
+[INFO ] 2021-08-04 17:23:13.523 [main] LogClass - Enter password
+[INFO ] 2021-08-04 17:23:14.251 [main] LogClass - click on login button
+[INFO ] 2021-08-04 17:23:16.638 [main] LogClass - you're login successfully
+[INFO ] 2021-08-04 17:23:16.790 [main] LogClass - click on home icon
+[INFO ] 2021-08-04 17:23:19.905 [main] LogClass - click on category
+[INFO ] 2021-08-04 17:23:23.052 [main] LogClass - click on books
+[INFO ] 2021-08-04 17:23:29.492 [main] LogClass - click on add to wishlist
+[INFO ] 2021-08-04 17:23:34.679 [main] LogClass - click on card
+[INFO ] 2021-08-04 17:23:37.772 [main] LogClass - click on checkbox button
+[INFO ] 2021-08-04 17:23:42.849 [main] LogClass - click on home icon
+[INFO ] 2021-08-04 17:23:48.346 [main] LogClass - click on category
+[INFO ] 2021-08-04 17:23:51.548 [main] LogClass - click on books
+[INFO ] 2021-08-04 17:23:59.420 [main] LogClass - click on add to wishlist
+[INFO ] 2021-08-04 17:24:05.042 [main] LogClass - click on card
+[INFO ] 2021-08-04 17:24:08.149 [main] LogClass - click on checkbox button
+[INFO ] 2021-08-04 17:24:13.447 [main] LogClass - addTo_wishlist_test:take success screenshot
+[INFO ] 2021-08-04 17:24:21.262 [main] LogClass - Browser is closed
+[INFO ] 2021-08-04 17:24:25.754 [main] LogClass - Test is ended
+[INFO ] 2021-08-04 17:24:25.754 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 17:24:25.785 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 17:24:37.737 [main] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 17:24:48.159 [main] LogClass - Launched the web application.
+[INFO ] 2021-08-04 17:25:07.617 [main] LogClass - print all properties
+[INFO ] 2021-08-04 17:25:22.709 [main] LogClass - Checking title actual and expected
+[INFO ] 2021-08-04 17:25:22.834 [main] LogClass - searchBook_test:take success screenshot
+[INFO ] 2021-08-04 17:25:40.618 [main] LogClass - Browser is closed
+[INFO ] 2021-08-04 17:25:45.739 [main] LogClass - Test is ended
+[INFO ] 2021-08-04 17:25:45.744 [main] LogClass - Test is starting
+[INFO ] 2021-08-04 17:25:45.780 [main] LogClass - chrome is starting
+[INFO ] 2021-08-04 17:42:52.897 [Test worker] LogClass - Test is starting
+[INFO ] 2021-08-04 17:42:57.501 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-08-04 17:43:28.691 [Test worker] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 17:43:38.929 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-08-04 17:43:52.147 [Test worker] LogClass - Login with valid credentials
+[INFO ] 2021-08-04 17:43:52.418 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:43:56.353 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-04 17:43:57.038 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-04 17:43:57.761 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-04 17:44:00.070 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-04 17:44:00.323 [Test worker] LogClass - Checking actual and expected title
+[INFO ] 2021-08-04 17:44:00.993 [Test worker] LogClass - login_test:take success screenshot
+[INFO ] 2021-08-04 17:44:01.808 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:44:02.234 [Test worker] LogClass - login_Application:take failed screenshot 
+[INFO ] 2021-08-04 17:44:02.743 [Test worker] LogClass - add to wishlist
+[INFO ] 2021-08-04 17:44:02.743 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:44:02.955 [Test worker] LogClass - addTo_wishlist_test:take failed screenshot 
+[INFO ] 2021-08-04 17:44:17.010 [Test worker] LogClass - print all properties
+[INFO ] 2021-08-04 17:44:31.318 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:44:31.568 [Test worker] LogClass - searchBook_test:take failed screenshot 
+[INFO ] 2021-08-04 17:44:31.832 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:44:32.040 [Test worker] LogClass - buyBook_test:take failed screenshot 
+[INFO ] 2021-08-04 17:44:32.474 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:44:32.786 [Test worker] LogClass - remove_book_test:take failed screenshot 
+[INFO ] 2021-08-04 17:44:33.050 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:44:33.307 [Test worker] LogClass - logout_Application:take failed screenshot 
+[INFO ] 2021-08-04 17:44:33.512 [Test worker] LogClass - Login with Invalid credentials
+[INFO ] 2021-08-04 17:44:33.512 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:44:33.770 [Test worker] LogClass - login_negative_test:take failed screenshot 
+[INFO ] 2021-08-04 17:44:42.274 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-08-04 17:44:42.634 [Test worker] LogClass - Test is ended
+[INFO ] 2021-08-04 17:51:25.181 [Test worker] LogClass - Test is starting
+[INFO ] 2021-08-04 17:51:26.976 [Test worker] LogClass - chrome is starting
+[INFO ] 2021-08-04 17:51:52.948 [Test worker] LogClass - navigating to url : https://www.bookswagon.com/
+[INFO ] 2021-08-04 17:52:06.946 [Test worker] LogClass - Launched the web application.
+[INFO ] 2021-08-04 17:52:19.445 [Test worker] LogClass - Login with valid credentials
+[INFO ] 2021-08-04 17:52:19.668 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:52:26.219 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-04 17:52:27.679 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-04 17:52:29.096 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-04 17:52:32.776 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-04 17:52:32.817 [Test worker] LogClass - Checking actual and expected title
+[INFO ] 2021-08-04 17:52:33.625 [Test worker] LogClass - login_test:take success screenshot
+[INFO ] 2021-08-04 17:52:34.297 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:52:34.875 [Test worker] LogClass - login_Application:take failed screenshot 
+[INFO ] 2021-08-04 17:52:35.271 [Test worker] LogClass - add to wishlist
+[INFO ] 2021-08-04 17:52:35.279 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:52:35.539 [Test worker] LogClass - addTo_wishlist_test:take failed screenshot 
+[INFO ] 2021-08-04 17:52:51.032 [Test worker] LogClass - print all properties
+[INFO ] 2021-08-04 17:53:05.820 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:53:06.179 [Test worker] LogClass - searchBook_test:take failed screenshot 
+[INFO ] 2021-08-04 17:53:06.468 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:53:06.754 [Test worker] LogClass - buyBook_test:take failed screenshot 
+[INFO ] 2021-08-04 17:53:07.186 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:53:07.439 [Test worker] LogClass - remove_book_test:take failed screenshot 
+[INFO ] 2021-08-04 17:53:07.664 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:53:07.885 [Test worker] LogClass - logout_Application:take failed screenshot 
+[INFO ] 2021-08-04 17:53:08.065 [Test worker] LogClass - Login with Invalid credentials
+[INFO ] 2021-08-04 17:53:08.065 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-04 17:53:08.319 [Test worker] LogClass - login_negative_test:take failed screenshot 
+[INFO ] 2021-08-04 17:53:17.891 [Test worker] LogClass - Browser is closed
+[INFO ] 2021-08-04 17:53:18.439 [Test worker] LogClass - Test is ended
