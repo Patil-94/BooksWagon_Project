@@ -46,11 +46,13 @@
                    </class>
                </classes>
            </test>
-    <test name="Invalid_Login_Test">
+    <test name="Negative_Test">
         <classes >
-              <class name="com.blz.selenium.test.Invalid_Login_Test">
+              <class name="com.blz.selenium.test.Negative_Test">
               <methods>
                   <include name="login_negative_test"/>
+                  <include name="address_blank_test"/>
+                  <include name="change_password_test"/>
               </methods>
               </class>
         </classes>

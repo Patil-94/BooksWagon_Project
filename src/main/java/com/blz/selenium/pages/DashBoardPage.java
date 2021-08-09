@@ -2,11 +2,13 @@ package com.blz.selenium.pages;
 
 import com.blz.selenium.base.BaseClass;
 import com.blz.selenium.utility.LogClass;
+import com.blz.selenium.objectrepository.ReadObjectRepo;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import java.io.IOException;
 import java.util.List;
 
 public class DashBoardPage extends BaseClass {
@@ -38,8 +40,39 @@ public class DashBoardPage extends BaseClass {
     @FindBy(name = "BookCart$lvCart$imgPayment")
     WebElement place_order;
 
+    @FindBy(xpath = "/html/body/form/div[3]/div[3]/div[2]/div[1]/div[2]/div/div/div/a")
+    WebElement Continue;
+
+    @FindBy(name = "ctl00$cpBody$txtNewRecipientName")
+    WebElement recipient_name;
+
+    @FindBy(name = "ctl00$cpBody$txtNewAddress")
+    WebElement recipient_address;
+
+    @FindBy(xpath = "//select[@id='ctl00_cpBody_ddlNewCountry']//option[@value='India'][normalize-space()='India']")
+    WebElement recipient_country;
+
+    @FindBy(xpath = "//select[@id='ctl00_cpBody_ddlNewState']//option[@value='Maharashtra'][normalize-space()='Maharashtra']")
+    WebElement recipient_state;
+
+    @FindBy(xpath = "//option[@value='Nashik']")
+    WebElement recipient_city;
+
+    @FindBy(name = "ctl00$cpBody$txtNewPincode")
+    WebElement recipient_pincode;
+
+    @FindBy(name = "ctl00$cpBody$txtNewMobile")
+    WebElement recipient_mobile;
+
+    @FindBy(name = "ctl00$cpBody$imgSaveNew")
+    WebElement submit_details;
+
+    @FindBy(xpath = "//input[@id='ctl00_cpBody_ShoppingCart_lvCart_savecontinue']")
+    WebElement save_and_continue;
+
     @FindBy(xpath = "//a[normalize-space()='Remove']")
     WebElement remove_from_cart;
+
 
     public DashBoardPage(WebDriver driver){
         PageFactory.initElements(driver,this);
@@ -76,7 +109,7 @@ public class DashBoardPage extends BaseClass {
         return driver.getTitle();
     }
 
-    public String buy_test(WebDriver webdriver) throws InterruptedException {
+    public String buy_test(WebDriver webdriver) throws InterruptedException, IOException {
         searchBar.click();
         Thread.sleep(1000);
         searchBar.sendKeys("C++");
@@ -108,6 +141,35 @@ public class DashBoardPage extends BaseClass {
         Thread.sleep(500);
         webdriver.switchTo().parentFrame();
         Thread.sleep(2000);
+        Continue.click();
+        Thread.sleep(500);
+        LogClass.info("sending name");
+        recipient_name.sendKeys(ReadObjectRepo.getLocatorProperty(ReadObjectRepo.filePath,"name"));
+        Thread.sleep(1000);
+        LogClass.info("sending addresss");
+        recipient_address.sendKeys(ReadObjectRepo.getLocatorProperty(ReadObjectRepo.filePath,"address"));
+        Thread.sleep(500);
+        LogClass.info("selecting country option");
+        recipient_country.click();
+        Thread.sleep(500);
+        LogClass.info("selecting state option");
+        recipient_state.click();
+        Thread.sleep(500);
+        LogClass.info("selecting city option");
+        recipient_city.click();
+        Thread.sleep(500);
+        LogClass.info("sending pincode");
+        recipient_pincode.sendKeys(ReadObjectRepo.getLocatorProperty(ReadObjectRepo.filePath,"pinCode"));
+        Thread.sleep(500);
+        LogClass.info("sending mobile number");
+        recipient_mobile.sendKeys(ReadObjectRepo.getLocatorProperty(ReadObjectRepo.filePath,"mobile"));
+        Thread.sleep(500);
+        LogClass.info("click on submit button");
+        submit_details.click();
+        Thread.sleep(1500);
+        LogClass.info("click on save and continue button");
+        save_and_continue.click();
+        Thread.sleep(1000);
         LogClass.info("print Title");
         return driver.getTitle();
     }
@@ -133,5 +195,6 @@ public class DashBoardPage extends BaseClass {
         Thread.sleep(2000);
         return driver.getTitle();
     }
+
 }
 

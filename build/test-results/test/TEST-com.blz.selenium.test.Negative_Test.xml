@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.blz.selenium.test.Negative_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-09T08:31:36" hostname="DESKTOP-KFGQFK8" time="10.386">
+  <properties/>
+  <testcase name="change_password_test[0](latikakhairnar10@gmail.com, latika@123)" classname="com.blz.selenium.test.Negative_Test" time="10.386"/>
+  <system-out><![CDATA[[INFO ] 2021-08-09 14:01:37.157 [Test worker] LogClass - %[INFO ] 2021-08-09 14:01:39.761 [Test worker] LogClass - %[INFO ] 2021-08-09 14:01:40.474 [Test worker] LogClass - %[INFO ] 2021-08-09 14:01:41.177 [Test worker] LogClass - %[INFO ] 2021-08-09 14:01:42.875 [Test worker] LogClass - %[WARN ] 2021-08-09 14:01:47.324 [Test worker] LogClass - %fields can not be empty
+Success Test
+[INFO ] 2021-08-09 14:01:49.285 [Test worker] LogClass - %]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

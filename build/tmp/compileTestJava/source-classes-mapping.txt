@@ -1,14 +1,12 @@
-com/blz/selenium/test/ObjectRepoLoginTest.java
- com.blz.selenium.test.ObjectRepoLoginTest
-com/blz/selenium/test/Invalid_Login_Test.java
- com.blz.selenium.test.Invalid_Login_Test
-com/blz/selenium/test/Logout_Test.java
- com.blz.selenium.test.Logout_Test
 com/blz/selenium/test/LoginTest.java
  com.blz.selenium.test.LoginTest
-com/blz/selenium/test/RemoveBook_From_Cart.java
- com.blz.selenium.test.RemoveBook_From_Cart
 com/blz/selenium/test/DashBoard_Test.java
  com.blz.selenium.test.DashBoard_Test
+com/blz/selenium/test/Logout_Test.java
+ com.blz.selenium.test.Logout_Test
+com/blz/selenium/test/RemoveBook_From_Cart.java
+ com.blz.selenium.test.RemoveBook_From_Cart
 com/blz/selenium/test/BuyBook_Test.java
  com.blz.selenium.test.BuyBook_Test
+com/blz/selenium/test/Negative_Test.java
+ com.blz.selenium.test.Negative_Test

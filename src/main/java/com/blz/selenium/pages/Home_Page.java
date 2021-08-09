@@ -27,6 +27,28 @@ public class Home_Page extends BaseClass {
     @FindBy(xpath = "//span[@class='cart-item-count']")
     WebElement cart;
 
+    @FindBy(xpath = "//ul[@class='ac-tabs']//a[normalize-space()='My Addresses']")
+    WebElement addresses;
+
+    @FindBy(xpath = "//input[@value='Add a New Address']")
+    WebElement add_new;
+
+    @FindBy(xpath = "//input[@id='ctl00_phBody_ShippingAddress_imgSubmit']")
+    WebElement save_address;
+
+    @FindBy(linkText = "Change Password")
+    WebElement password;
+
+    @FindBy(xpath = "//input[@id='ctl00_phBody_ChangePassword_txtNewPassword']")
+    WebElement new_Pwd;
+
+    @FindBy(xpath = " //input[@id='ctl00_phBody_ChangePassword_txtConfirmPwd']")
+    WebElement confirm_Pwd;
+
+    @FindBy(xpath = "//input[@id='ctl00_phBody_ChangePassword_imgSubmit']")
+    WebElement save_Btn;
+
+
     public Home_Page(WebDriver driver){
         PageFactory.initElements(driver,this);
     }
@@ -50,6 +72,27 @@ public class Home_Page extends BaseClass {
         LogClass.info("click on checkbox button");
         checkbox.click();
         Thread.sleep(5000);
+        return driver.getTitle();
+    }
+
+    public String adding_address() throws InterruptedException {
+        addresses.click();
+        Thread.sleep(1000);
+        add_new.click();
+        Thread.sleep(1000);
+        save_address.click();
+        Thread.sleep(1000);
+        return driver.getTitle();
+    }
+
+    public String change_password() throws InterruptedException {
+        password .click();
+        Thread.sleep(1000);
+        new_Pwd .sendKeys("latika");
+        Thread.sleep(1000);
+        confirm_Pwd.sendKeys("latika");
+        Thread.sleep(1000);
+        save_Btn.click();
         return driver.getTitle();
     }
 }

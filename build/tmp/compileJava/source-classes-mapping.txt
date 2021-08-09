@@ -7,19 +7,19 @@ com/blz/selenium/utility/ScreenshotClass.java
  com.blz.selenium.utility.ScreenshotClass
 com/blz/selenium/pages/Login_Page.java
  com.blz.selenium.pages.Login_Page
-com/blz/selenium/utility/ReadObjectRepo.java
- com.blz.selenium.utility.ReadObjectRepo
+com/blz/selenium/objectrepository/ReadObjectRepo.java
+ com.blz.selenium.objectrepository.ReadObjectRepo
 com/blz/selenium/listener/CustomListener.java
  com.blz.selenium.listener.CustomListener
 com/blz/selenium/utility/LogClass.java
  com.blz.selenium.utility.LogClass
 com/blz/selenium/listener/DataProvider.java
  com.blz.selenium.listener.DataProvider
-com/blz/selenium/objectrepository/LoginPage.java
- com.blz.selenium.objectrepository.LoginPage
 com/blz/selenium/base/BaseClass.java
  com.blz.selenium.base.BaseClass
-com/blz/selenium/pages/Home_Page.java
- com.blz.selenium.pages.Home_Page
 com/blz/selenium/pages/DashBoardPage.java
  com.blz.selenium.pages.DashBoardPage
+com/blz/selenium/pages/Home_Page.java
+ com.blz.selenium.pages.Home_Page
+com/blz/selenium/utility/ExtentReporterNG.java
+ com.blz.selenium.utility.ExtentReporterNG
